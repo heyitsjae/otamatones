@@ -1,0 +1,5 @@
+{
+  "name": "Google Otamatone",
+  "description": "An interactive, minimal Otamatone instrument with glissando and wah-wah effects.",
+  "requestFramePermissions": []
+}
